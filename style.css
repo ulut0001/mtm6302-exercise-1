@@ -24,6 +24,10 @@ code {
     font-size: 1.2rem;
 }
 
+.emode_call {
+    font-size: 5rem;
+}
+
 @media screen and (min-width:900px) {
     body {
         margin-left: calc(50vw - 450px)
